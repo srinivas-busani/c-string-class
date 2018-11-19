@@ -1,2 +1,2 @@
-# c-string-class
+# c++-string-class
 all string operations in c++ 
